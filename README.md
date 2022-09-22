@@ -1,4 +1,6 @@
-CSA0840-PYTHON
+CSA0840-PYTHON  
+
+DAY 1
 1 Isomorphic
 2 sumsqare
 3 happy number
@@ -7,6 +9,10 @@ CSA0840-PYTHON
 6.max area
 7.count sorted vowel string
 8.valid number
-9.climbing star
+9.
 10.leap year
 
+DAY 2
+11 Basic calculator
+12 Climb stairs
+13 
