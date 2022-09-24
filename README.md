@@ -1,37 +1,58 @@
 CSA0840-PYTHON  
 
 DAY 1
-1 Isomorphic
-2 sumsqare
-3 happy number
-4 palindrome
-5.loaves of bread
-6.max area
-7.count sorted vowel string
-8.valid number
-9. basic calculator
-10.leap year
+isomorphic,
+sumsquare,
+Happy number,
+palindrome,
+loaves of bread,
+max area,
+count sorted vowel string,
+valid number,
+guests,
+modify string.
 
 DAY 2
-1 Climb stairs
-2 Modified string
-3 MERGE TWO LISTS
-4 MAXIMUM NUMBER OF WORDS
-5 CALCULATOR
-6 REMOVE COMMON WORDS
-7 PARANTHESIS
-8 SEASONS
-9 KEY WORDS
-10 GENERATE PARAMETERS
+
+climbing stairs,
+leap year,
+words in sentence,
+Merge Two Sorted Lists,
+Basic Calculator,
+keyword,
+Parenthesis,
+regular expression(1),
+date season,
+remove common words in strings.
 
 DAY 3
-1 TRADING
-2 PROJECT MANAGER
-3 ARRAY OF INTEGERS
-4 BINARY
-5 MAX NUMBER OF STEPS
-6 PERMUTATIONS
-7 ANAGRAMS
-8 PATTERN 
-9 WORD
-10 
+
+trading,
+Project manager,
+good pairs,
+Add Binary,
+max number,
+mirror image,
+Permutations,
+anagram,
+regular expression(2),
+word1 to word2.
+
+DAY 4
+
+indexed,
+student user,
+smaller than current number,
+valid palindrome,
+min number of jumps,
+length of string,
+vowels are lexicographic,
+roman to integer,
+date seasons,
+scramble string.
+
+
+DAY 5 
+
+Robert problem,
+perfect square number
