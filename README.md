@@ -58,9 +58,9 @@ last word length,
 bonus salary,
 Robert problem,
 perfect square number,
-max index
-longest sub string
-NxN
-sum of elements in Nth row
-peak element
+max index,
+longest sub string,
+NxN,
+sum of elements in Nth row,
+peak element,
 
